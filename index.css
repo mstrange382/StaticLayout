@@ -106,7 +106,7 @@ button{
 }
 .library{
     background:black;
-    padding: 88px, 20px; 50px;
+    padding: 88px, 20px;
     
 }
 .stream{
@@ -139,13 +139,3 @@ button{
     margin-left: 150px;
 } */
 
-/* .bundle-button{ */
-    background: transparent;
-  border: 2px,solid, white;
-  color: white
-  padding: 15px 32px;
-  text-align: center;
-  text-decoration: none;
-  display: inline-block;
-  font-size: 16px;
-  
